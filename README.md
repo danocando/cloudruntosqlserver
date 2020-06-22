@@ -39,6 +39,4 @@ gcloud beta run deploy [SERVICE-NAME] --image gcr.io/[PROJECT-ID]/[IMAGE-NAME] \
                                       --add-cloudsql-instances [CLOUD-SQL-INSTANCE-NAME]
 ```
 
-6.
-
 **Acknowledgement**: The current Dockerfile being used within this repository is an adaptation of the answers provided from the following StackOverflow [post](https://stackoverflow.com/questions/46405777/connect-docker-python-to-sql-server-with-pyodbc).
